@@ -1,6 +1,9 @@
 #Visual Studio Folder
 .vs/
 
+#Firebase folder
+.firebase/
+
 # Logs
 logs
 *.log
