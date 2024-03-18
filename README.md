@@ -1,48 +1,52 @@
-# Nike Landing Page
+<div align="center">
+  <br />
+      <img src="https://i.ibb.co/Kqdv8j1/Image-from.png" alt="Project Banner">
+  <br />
+</div>
 
-This project is a responsive landing page inspired by Nike's sleek design, built using React.js and styled with Tailwind CSS. With a focus on simplicity and elegance, this landing page aims to showcase the latest products from Nike in an engaging and visually appealing manner.
+# Brainwave - Modern UI/UX website
+
+Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.
 
 ## Tech Stack
 
-- Tailwind CSS
+- Vite
 - React.js
+- Tailwind CSS
+
 
 ## Features
 
-**Complex Hero Section**: A visually appealing hero section showcasing key elements.
+**Beautiful Sections**: Includes hero, services, features, how to use, roadmap, pricing, footer, and header.
 
-**Popular Products Showcase**: A section highlighting popular Nike products
+**Parallax Animations**: Engaging effects triggered by mouse movement and scrolling.
 
-**About Us Section**: An informative "About Us" section with a unique design.
+**Complex UI Geometry**: Utilizes tailwindcss for intricate shapes like circular feature displays, grid lines, and side lines.
 
-**Special Offers**: Showcase special offers in an eye-catching manner
+**Latest UI Trends**: Incorporates modern design elements such as bento grids.
 
-**Testimonials**: A testimonials section for a captivating user experience
+**Cool Gradients**: Enhances visuals with stylish gradients using Tailwind CSS for cards, buttons, etc.
 
-**Newsletter Integration**: A newsletter section with Tailwind styling, encouraging user engagement
+**Responsive**: Ensures seamless functionality and aesthetics across all devices.
 
-**Footer**: A comprehensive footer section containing various links
-
-**Mobile Responsive**: The entire website is responsive across various devices, emphasizing Tailwind's mobile-friendly capabilities.
-
-**Modern Design**: The landing page is designed to reflect Nike's contemporary style, with clean layouts and vibrant imagery.
+And many more, including code architecture and reusability.
 
 ## Hosted Application
-You can access the hosted application at https://nike-landing-page.000webhostapp.com
+You can access the hosted application at https://darshakjani8101.github.io/Brainwave_UI_UX/
 
 ## Local Setup
 
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/darshakjani8101/nike_landing_page.git
+git clone https://github.com/darshakjani8101/Brainwave_UI_UX.git
 ```
 
 ### 2. Install dependencies:
 
 ```bash
 # Navigate to the root directory
-cd nike_landing_page
+cd Brainwave_UI_UX
 npm install
 ```
 
@@ -54,7 +58,7 @@ npm run dev
 ```
 
 ### 4. Access the application:
-Open your web browser and visit http://localhost:5173 to access the Nike Landing Page.
+Open your web browser and visit http://localhost:5173 to access the Brainwave - Modern UI/UX website.
 
 ## Contributors
 ### Darshak Jani
