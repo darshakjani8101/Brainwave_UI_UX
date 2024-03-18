@@ -32,7 +32,7 @@ Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exe
 And many more, including code architecture and reusability.
 
 ## Hosted Application
-You can access the hosted application at https://darshakjani8101.github.io/Brainwave_UI_UX/
+You can access the hosted application at https://darshakjani8101.github.io/Brainwave_UI_UX/ or https://brainwave-ui-ux-design.web.app/
 
 ## Local Setup
 
