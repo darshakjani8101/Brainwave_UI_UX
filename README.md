@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      <img src="https://i.ibb.co/Kqdv8j1/Image-from.png" alt="Project Banner">
+      <img src="https://github.com/darshakjani8101/Brainwave_UI_UX/blob/main/src/assets/readme_img.png?raw=true" alt="Project Banner">
   <br />
 </div>
 
